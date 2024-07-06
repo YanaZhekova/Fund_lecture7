@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62c72b7c-a705-4f19-8471-fb9f6134db17" name="Changes" comment="Lecture 7 exercises">
-      <change afterPath="$PROJECT_DIR$/a_miner_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/capitals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/count_chars_in_a_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/legendary_farming.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,9 @@
     "Python.bakery.executor": "Run",
     "Python.capitals.executor": "Run",
     "Python.count_chars_in_a_string.executor": "Run",
+    "Python.legendary_farming.executor": "Debug",
     "Python.odd_occurrences.executor": "Run",
+    "Python.phonebook.executor": "Run",
     "Python.statistics.executor": "Run",
     "Python.stock.executor": "Run",
     "Python.students.executor": "Run",
@@ -65,7 +65,7 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.capitals">
+  <component name="RunManager" selected="Python.legendary_farming">
     <configuration name="a_miner_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fund_lecture7" />
       <option name="ENV_FILES" value="" />
@@ -132,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="odd_occurrences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="legendary_farming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fund_lecture7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odd_occurrences.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/legendary_farming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_synonyms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="phonebook" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fund_lecture7" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +167,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word_synonyms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/phonebook.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.legendary_farming" />
+        <item itemvalue="Python.phonebook" />
         <item itemvalue="Python.capitals" />
         <item itemvalue="Python.a_miner_task" />
         <item itemvalue="Python.count_chars_in_a_string" />
-        <item itemvalue="Python.word_synonyms" />
-        <item itemvalue="Python.odd_occurrences" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720166635479</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lecture 7 exercises">
+      <option name="closed" value="true" />
+      <created>1720258146944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1720258146944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -237,6 +245,11 @@
           <url>file://$PROJECT_DIR$/count_chars_in_a_string.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/legendary_farming.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
