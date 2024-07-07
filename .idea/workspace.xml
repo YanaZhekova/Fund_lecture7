@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62c72b7c-a705-4f19-8471-fb9f6134db17" name="Changes" comment="Lecture 7 exercises">
-      <change afterPath="$PROJECT_DIR$/legendary_farming.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phonebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/phonebook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legendary_farming.py" beforeDir="false" afterPath="$PROJECT_DIR$/legendary_farming.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YanaZhekova"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YanaZhekova&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YanaZhekova/Fund_lecture7.git",
-    "accountId": "6c50461b-b237-4dc6-a6c1-f19ce9db4ea2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YanaZhekova/Fund_lecture7.git&quot;,
+    &quot;accountId&quot;: &quot;6c50461b-b237-4dc6-a6c1-f19ce9db4ea2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2impLqolhGmzIQFJPY2XxD6iPAy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -54,7 +53,7 @@
     "Python.bakery.executor": "Run",
     "Python.capitals.executor": "Run",
     "Python.count_chars_in_a_string.executor": "Run",
-    "Python.legendary_farming.executor": "Debug",
+    "Python.legendary_farming.executor": "Run",
     "Python.odd_occurrences.executor": "Run",
     "Python.phonebook.executor": "Run",
     "Python.statistics.executor": "Run",
@@ -226,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720258146944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lecture 7 exercises">
+      <option name="closed" value="true" />
+      <created>1720262201988</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720262201988</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,7 +256,7 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/legendary_farming.py</url>
           <line>4</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
